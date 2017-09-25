@@ -30,7 +30,7 @@ instead of
 ```
 javac Main.java
 ```
-
+***
 ##Author
 * [Gao Yu](https://github.com/mfhero)
 * [Han Ruobing](https://github.com/drcut)
